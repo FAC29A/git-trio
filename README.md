@@ -1,2 +1,2 @@
-# git-workshop-jason-lucy-lucien
-Thing
+# Plants & Bread
+Also, very serious git practice.
